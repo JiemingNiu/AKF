@@ -13,7 +13,7 @@ Wuhan University
 
 You can do what you will with this code please acknowledge,
 
-Jieming Niu, Caijun Xu*, (2014), Real-time assessment of the broadband coseismic deformation of the 2011 Tohoku-Oki earthquake using an adaptive Kalman filter.
+Niu, J. and Xu, C., 2014. Real‐Time Assessment of the Broadband Coseismic Deformation of the 2011 Tohoku‐Oki Earthquake Using an Adaptive Kalman Filter. Seismological Research Letters, 85(4), pp.836-843.
 
 In the paper you can find more specific information about the algorithm.
 
