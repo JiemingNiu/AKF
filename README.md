@@ -23,6 +23,6 @@ FLOW:
 
 1. Prepare the data. I have included two simple data files for testing program from GPS 0041 and accelerometer FKS011 during the 2011 Tohoku-oki earthquake. The first column of the acceleration file acc.dat is seconds of day, and the second column is acceleration in SI, which is same to the GPS displacement file gps.dat, whose third column is positioning uncertainty.
 
-2. Run AKF. If you would like to output the estimate of process noise variance, please uncomment the Line 59 and 91 of akf.m. The file output.dat is the running result of sample data, where the second column is displacements, and the third is velocity in SI.
+2. Run AKF. If you would like to output the estimate of process noise variance, please uncomment the Line 59 and 91 of akf.m. The file output.dat is the running result of sample data, where the second column is displacements, and the third is velocity.
 
 Good Luck! 
